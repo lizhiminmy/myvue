@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+第一次在github提交项目
+
 ## Build Setup
 
 ``` bash
